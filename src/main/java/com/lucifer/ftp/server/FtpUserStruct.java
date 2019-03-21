@@ -58,6 +58,5 @@ public class FtpUserStruct {
 		this.passiveDataSocket = null;
 		this.passiveDataServerSocket = null;
 		this.activeDataSocket = null;
-		this.interactiveSocket = null;
 	}
 }
